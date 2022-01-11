@@ -27,9 +27,9 @@
   * File transfer
   * Games - single player
   * Track location - limited
-#### Limitations of smartphone model
-* Can't connect to the cloud - no cloud server backing
-* Number of apps that can run is reduced
+* **Limitations of smartphone model**
+  * Can't connect to the cloud - no cloud server backing
+  * Number of apps that can run is reduced
 
 ### Smartphone and Cloud
 * Smartphone interfaced with a cloud server (hosted in a data center) - connected via  wifi/cellular
@@ -52,9 +52,9 @@
 * **Disadvantages**
   * Lower resources than cloud for storage and computation
 * **Issues** (Resolved through proper mgmt)
- * Not as fast as cloud - can be resolved by optimizing code to run in a particular fog server
- * Machine Learning - have applications with trained machine learning models
-  * Supervised classifier (sequence of attributes labelled with a proper class) - training test
+  * Not as fast as cloud - can be resolved by optimizing code to run in a particular fog server
+  * Machine Learning - have applications with trained machine learning models
+    * Supervised classifier (sequence of attributes labelled with a proper class) - training test
 
 ### External Sensors
 * They can connect with various types of communication mechanisms so heterogeneous communication capabilities are needed (Bluetooth, NFC, WiFi)
@@ -86,4 +86,16 @@
 
 
 ## Adaptation and Smartness
+### Adaptation
+ * Mobile apps need to adapt to get good user experience
+ * Difference in the steps for any other form of software development:
+   * Gather requirements
+   * Software design (static)
+   * Verification
+   * Implementation
+   * Validation
+ * Mobile app development steps:
+   * Requirements (dynamic)
+     * Adapt to changing environment - Watching Youtube and 4G is in/out during transit
+     * Compromise video quality or audio quality (dependant upon what type of video you're watching - football, jazz)
 

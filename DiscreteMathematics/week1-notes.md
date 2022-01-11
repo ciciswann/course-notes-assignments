@@ -16,7 +16,7 @@
 | B is a knave  | A is a knight  | A is telling the truth, B is lying | ✔️ |
 | B is a knave | A is a knave | If A is a knave, then B must be a knight | ❌ |
 
-* Truth tables (Negation, Conjunction, Disjunction, Implication)
+#### Truth tables (Negation, Conjunction, Disjunction, Implication)
 
 | p | ¬p |
 |--|:--:|

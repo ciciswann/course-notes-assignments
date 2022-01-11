@@ -1,5 +1,7 @@
 # Logic
 
+* [Lecture](#lecture-notes)
+* [Logic Gates](#logic-gates)
 ## Lecture Notes
 * A **proposition** is a statement that is either true or false
 * Use notation to represent propositions (p, q, r)
@@ -45,3 +47,5 @@
 |F | F | T |
 
 * Truth tables are useful for showing logical equivalence between different logical expressions
+
+## Logic Gates

@@ -2,7 +2,9 @@
 
 This course covers important topics in mobile computing. 
 
-**Specific topics covered:**
+<details>
+<summary>Specific topics covered:</summary>
+
 * Mobile programming
 * Internet of Things (IoT)
 * Edge and cloud computing
@@ -12,12 +14,16 @@ This course covers important topics in mobile computing.
 * Energy-aware systems
 * Location-aware computing
 * Mobile security and privacy
+</details>
 
-**Technologies covered:**
+<details>
+  <summary>Technologies used:</summary>
+  
 * Android Application Development
 * Java
 * Python
 * TensorFlow
+</details>
 
 ## Week 1
 #### [📓 Notes](week1-notes.md)

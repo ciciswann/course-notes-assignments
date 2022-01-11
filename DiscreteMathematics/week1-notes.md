@@ -49,3 +49,18 @@
 * Truth tables are useful for showing logical equivalence between different logical expressions
 
 ## Logic Gates
+
+* Basic boolean operators
+    * AND
+    * OR
+    * NOT
+* Logic gates are a graphical way to represent boolean algebra equations through logic diagrams
+* AND Gate 
+    * Z=XY
+* OR Gate
+    * Z = X + Y
+* NOT Gate
+    * Z = ȳ
+* XOR Gate
+    * Z = X ⊕ Y
+* They form the basis of digital electronics

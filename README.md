@@ -11,4 +11,5 @@ A compilation of notes and assignments for courses related to my CS degree.
 
 ## Courses
 #### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md)
+#### [Calculus II (UCSD Extension)](Calculus2/README.md)
 #### [CSE 535 - Mobile Computing](CSE535-MobileComputing/README.md)

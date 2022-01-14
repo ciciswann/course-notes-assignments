@@ -4,6 +4,6 @@ Unfortunately, I was unable to get my credits earned from my high school test sc
 
 ## Week 1
 
-[1](1.md)
-[2](2.md)
-[3](3.md)
+[📝 1](1.md) \
+[📝 2](2.md) \
+[📝 3](3.md)

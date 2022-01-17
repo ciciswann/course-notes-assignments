@@ -37,6 +37,6 @@ Fog - 1090/400 = 2725 ms
 
 ### Average Total Time:
 Data center - comm. + comp. \
-1090 + 1453 = 2543ms
+1090 + 1453 = 2543ms \
 .10(210+2543)+.90(2543) = **2564ms**
 

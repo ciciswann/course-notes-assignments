@@ -98,4 +98,31 @@
    * Requirements (dynamic)
      * Adapt to changing environment - Watching Youtube and 4G is in/out during transit
      * Compromise video quality or audio quality (dependant upon what type of video you're watching - football, jazz)
-
+### Adaptation Types
+ * **Two types:**
+    * System level adaptation - fixed adaptations that are taken at a system level (they don't query the user)
+    * User level adaptation - the user is asked (i.e. settings options)
+ * Neither suffice to get good user experience
+ * System level - user preferences are ignored
+ * User level adaptation amounts to cognitive overload (too much)
+ * A good adaptation strategy is **application aware adaptation** 
+   * video example - based on the content the application picks which can be compromised (video or audio)
+### Types of Application-Aware Adaptation: Reactive Adaptation
+ * **Two Types:**
+   * Reactive - reacts to the change in the environment (after-the-fact change)
+     * Example - location based restaurant search - senses location (GPS) and gives a recommendation of what to eat
+   * Proactive - make adaptation decisions ahead of time (before an environmental change has happened)
+     * you need predictive models
+     * Example - Gas Buddy - predictive models might be awareness of current location, gas level, mpg, speed, and destination and can predict when you might need to stop for gas
+ *  Studious applications - reactive application aware applications that takes actions accordingly by considering information about context changes, preferences after studying and memorizing them
+ *  Smart applications - proactive application aware applications (extracted want user wants from data)
+### What Can We Adapt?
+* Data adaptation 
+  * data fidelity - whether the data is accurate or timely (context dependent; as fidelity evaluates whether the data is representative of the current environmental state)
+  * agility - a data unit is agile if a knowledge extraction unit can use that data and make a computation faster
+  * Example - location tracking - Family Where - GPS, Cellular, WiFi signals 
+* Functionality
+### When Do We Adapt?
+* Transcoding proxy
+* Content with larger size are more likely to be transcoded
+* The adaptation in a reactive application aware transcoding proxy application is that it looks at the type of device that is generating the request and then transforms the content which best fits that device

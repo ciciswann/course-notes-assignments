@@ -27,4 +27,8 @@ This course covers important topics in mobile computing.
 
 ## Week 1
 #### [📓 Notes](week1-notes.md)
-#### [Computation Practice](computation1.md)
+#### [🧮 Computation Practice](computation1.md)
+
+**Quiz 1 Score** - 100%
+
+## Week 2

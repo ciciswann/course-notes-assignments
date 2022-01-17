@@ -8,4 +8,5 @@ Note: Most of the graded assignments come in the form of mini-quizzes. I will po
 
 [📝 1](1.md) \
 [📝 2](2.md) \
-[📝 3](3.md)
+[📝 3](3.md) \
+[🗣️ Discussion Post](discussion1.md)

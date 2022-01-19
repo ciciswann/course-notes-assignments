@@ -12,3 +12,5 @@ Note: Most of the graded assignments come in the form of mini-quizzes. I will po
 [🗣️ Discussion Post](discussion1.md)
 
 ## Week 2
+
+[📝 4](4.md)

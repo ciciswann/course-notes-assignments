@@ -26,7 +26,7 @@ in 5s - 80,000 bits or 80kb \
 wheel - 2 * 5 = 10kb \
 camera - 200 * 5 = 1000kb
 
-**total data collected**: 1090 kb
+**total data collected**: 1000+10+80 = 1090 kb
 
 Data Center - 1090/1000 = 1.09 seconds or 1090ms \
 Fog - 1090/3000 = 363ms

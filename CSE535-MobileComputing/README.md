@@ -32,3 +32,4 @@ This course covers important topics in mobile computing.
 **Quiz 1 Score** - 100%
 
 ## Week 2
+#### [📓 Notes](week2-notes.md)

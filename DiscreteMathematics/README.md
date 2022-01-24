@@ -4,6 +4,8 @@
 
 Discrete math is applied math: it provides the basis for much of computer science, statistics, and programming, as well as being integral to engineering and many different scientific disciplines.
 
+[Additional reading for course](https://cseweb.ucsd.edu//~gill/BWLectSite/)
+
 ## Week 1
 #### [📓 Notes](week1-notes.md)
 #### [✍🏻 Assignment](week1-assignment.md)

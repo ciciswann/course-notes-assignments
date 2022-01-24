@@ -1,6 +1,6 @@
 # Week 2 - Integer Functions
 
-* A lot of the concepts discussed this week were review for me, apologies for the sparse notes! *
+*A lot of the concepts discussed this week were review for me, apologies for the sparse notes!*
 
 * **Integers** - include positive and negative numbers
 * **Real numbers** - found on the number line (computers - floating points)

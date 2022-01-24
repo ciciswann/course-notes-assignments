@@ -37,11 +37,32 @@
 
 ### Types of Context Aware Applications
 * Features include **presentation** of info and services, **automatic execution** of a service, **tagging of context** to info to support later retrieval, and **adaptation** of apps behavior and appearance
-* Presentation:
+* **Presentation**:
     * present info relevant to current information
     * only refers to which info is presented (not how)
-* Automatic Execution: 
+* **Execution**: 
+     * if context changes according to if-then rules services are automatically executed
+     * example: auto brightness control (if surroundings are dark, then increase brightness)
+* **Tagging**:
+     * associating contextual information to data in order to improve later retrieval
+     * can be performed automatically or initiated by the user
+     * example: geo tagging - crawl data and associate something to an address you just went to (e.g. user1 tags restaurant with good burgers, user 2 searches good burgers nearby and finds restaurant)
+* **Adaptation**:
+   * Adapt behavior and how info is presented to given context
+   * example: battery mgmt - low batt. threshold of 15% - shuts down power hungry app if battery level goes below 15%
 
+### Difficulties in Using Context
+* context information differs from traditional sources bc it is gathered from heterogeneous sources (i.e. different types of sensors), is dynamic, and is error-prone
+* context-aware apps have to consider two factors:
+    * **Scalability**: should cope with many diff sensors and users
+    * **Robustness**: stability and reliability of results, adapt to new situations, resistance to frequent changes in the environment, component failure, and disturbing factors
+* How to build a context-aware application:
+    * specification: what context-aware behavior should be implemented? which context is required for that purpose?
+    * acquisition: which sensors can be used to retrieve this context?
+    * delivery and reception: how is the context represented, managed and exchanged?
+       * context models
+       * access mechanisms
+       * context storage and management
 ## BraiNet
 
 ## Mobility Models

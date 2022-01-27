@@ -17,3 +17,5 @@
 [📝 5](5.md)
 
 ## Week 3
+
+*No mini quizzes due this week*

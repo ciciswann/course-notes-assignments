@@ -34,3 +34,4 @@ This course covers important topics in mobile computing.
 
 ## Week 3
 #### [📓 Notes](week3-notes.md)
+*The graded assignment for week 3 was a Team Charter for my team that is working on a paper regarding a novel solution to a mobile computing problem*

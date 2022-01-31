@@ -19,3 +19,7 @@
 ## Week 3
 
 *No mini quizzes due this week*
+
+## Week 4
+
+[📝 6](6.md) 

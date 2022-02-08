@@ -38,3 +38,5 @@ This course covers important topics in mobile computing.
 
 ## Week 4
 #### [📓 Notes](week4-notes.md)
+*Project Part 1 - Mobile App in Android Studio - SmartHome Gesture Control Application*
+https://youtu.be/3RJzKOMMl0s

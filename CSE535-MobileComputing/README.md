@@ -38,5 +38,7 @@ This course covers important topics in mobile computing.
 
 ## Week 4
 #### [📓 Notes](week4-notes.md)
-*Project Part 1 - Mobile App in Android Studio - SmartHome Gesture Control Application*
-https://youtu.be/3RJzKOMMl0s
+*Project Part 1 - Mobile App in Android Studio - SmartHome Gesture Control Application* \
+https://youtu.be/3RJzKOMMl0s \
+Part 2 will be a python app for classifying the gestures using TensorFlow, OpenCV and Keras.
+

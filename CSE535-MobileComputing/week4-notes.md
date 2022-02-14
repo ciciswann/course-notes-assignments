@@ -19,8 +19,7 @@
 * encryption scheme depends not on secrecy of algorithm but on parameter of algorithm
 * extremely difficult for an intruder to determine key
 * 2 basic types: symmetric key, asymmetric or public/private key
-### Message Integrity
-### Digital Signatures
+
 ### Network Security Authentication
 ###
 ## Recent Trends in Mobile Security

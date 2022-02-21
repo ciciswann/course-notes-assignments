@@ -30,3 +30,8 @@ Discrete math is applied math: it provides the basis for much of computer scienc
 
 ## Week 5
 #### [📓 Notes](week5-notes.md)
+#### [✍🏻 Assignment](week5-assignment.md)
+
+## Week 6
+#### [📓 Notes](week6-notes.md)
+#### [✍🏻 Assignment](week6-assignment.md)

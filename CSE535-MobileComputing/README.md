@@ -43,3 +43,8 @@ https://youtu.be/3RJzKOMMl0s \
 Part 2 will be a python app for classifying the gestures using TensorFlow, OpenCV and Keras.
 
 ## Week 5
+#### [📓 Notes](week5-notes.md)
+*Group Project* - Idea Paper submitted discussing Battery Management using Context-Aware Machine Learning
+
+## Week 6
+#### [📓 Notes](week6-notes.md)

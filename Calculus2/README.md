@@ -26,7 +26,7 @@
 
 ## Week 5
 
-*MidTerm Time* D: - I won't be posting my midterm answers, but possibly a problem set I created to prepare for the midterm
+*Midterm Time* D: - I won't be posting my midterm answers, but possibly a problem set I created to prepare for the midterm
 
 ## Week 6
 

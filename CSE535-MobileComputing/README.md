@@ -48,3 +48,7 @@ Part 2 will be a python app for classifying the gestures using TensorFlow, OpenC
 
 ## Week 6
 #### [📓 Notes](week6-notes.md)
+*Project Part 2 - SmartHome Gesture Recognition CNN*
+
+## Week 7 
+#### [📓 Notes](week7-notes.md)

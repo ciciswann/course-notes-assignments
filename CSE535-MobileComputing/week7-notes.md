@@ -69,7 +69,7 @@
 * it can be a new programming language, set of APIs, set of system calls, OS, new distributed computing method
 ### IoT Middleware: TinyLink MobiCom 2017
 ![image](https://user-images.githubusercontent.com/17733481/155863747-c0c7fc48-f3cb-4b7c-abdb-50e6bbd6c8aa.png)
-* two streams - hardware generation and software generation 
+* two streams - hardware generation and software generation \
 ![image](https://user-images.githubusercontent.com/17733481/155863805-c07711d1-c0c2-4147-93f2-55772f97878c.png)
 * solver - multiobjective optimization problem
 * Arduino, LinkIt ONE, RasPi 2, Beaglebone black

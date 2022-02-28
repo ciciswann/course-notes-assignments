@@ -34,6 +34,8 @@
 * handoff may be necessary bc: mobile host is moving, current BS is overloaded, quality of communication available at BS
 * choosing a new BS: based on signal strength, predicted movement of MH, resources available at BS
 ### Location Registrars
-* 
+* Location Registrars are databases containing location information for MHs
+* To get the idea, consider a system with only one LR, a Home Location Registrar
+* Location is maintained at a single-cell granularity
 
 ## Mobile Internet Protocol (IP)

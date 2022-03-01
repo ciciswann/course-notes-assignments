@@ -26,8 +26,10 @@
 
 ## Week 5
 
-*Midterm Time* D: - I won't be posting my midterm answers, but possibly a problem set I created to prepare for the midterm
+*Midterm Time* D: - I won't be posting my midterm answers, but possibly a problem set I created to prepare for the midterm \
+**Midterm Score** - 87% (*OOF,* it's my fault for not being able to start the exam immediately and losing an hour to complete the exam)
 
 ## Week 6
 
-[📝 7](7.md) 
+[📝 7](7.md) \
+[🗣️ Discussion Post](discussion2.md)

@@ -18,7 +18,7 @@ A compilation of notes and assignments for courses related to my CS degree.
 #### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md)
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md)
 ### Upcoming Fall Courses
-* CSE 551 - Foundations of Algorithms ( I'm so excited for this one 🤩)
+* CSE 551 - Foundations of Algorithms (Advanced topics in formal algorithm design and analysis including amortized analysis, network flows, NP-completeness, computational geometry. I'm so excited for this one 🤩)
 * CSE 572 - Data Mining
 * CSE 531 - Distributed and Multiprocessor Operating Systems
 * CSE 571 - Artificial Intelligence

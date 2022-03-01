@@ -31,7 +31,7 @@
 
 ## Week 6
 
-[📝 7](7.md) \
+[📝 7](7.md) 
 
 ## Week 7
 [🗣️ Discussion Post](discussion2.md)

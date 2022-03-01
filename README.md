@@ -17,3 +17,8 @@ A compilation of notes and assignments for courses related to my CS degree.
 #### [CSE 535 - Mobile Computing](CSE535-MobileComputing/README.md)
 #### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md)
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md)
+### Upcoming Fall Courses
+* CSE 551 - Foundations of Algorithms ( I'm so excited for this one 🤩)
+* CSE 572 - Data Mining
+* CSE 531 - Distributed and Multiprocessor Operating Systems
+* CSE 571 - Artificial Intelligence

@@ -1,3 +1,4 @@
+## Discussion Post
 **Topic:** \
 How are a function and its Taylor series connected. Do we start with the series and get a function or the other way round, start with a function and get the Taylor series?
 

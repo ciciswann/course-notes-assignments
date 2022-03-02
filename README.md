@@ -17,7 +17,7 @@ A compilation of notes and assignments for courses related to my CS degree.
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md)
 
 ### Supplementary Courses
-As a business and communications undergrad, I felt like I needed more math in my life. It's not just studying a bunch of rules that other people have decided are true. Math is just true. So, if the steps I take are logically sound, then the end result will be true. It's a rewarding field to continue to study, imo.
+Math. I dig it.
 #### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md)
 #### [Calculus II (UCSD Extension)](Calculus2/README.md)
 

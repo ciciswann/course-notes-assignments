@@ -36,7 +36,7 @@
 ### Location Registrars
 * Location Registrars are databases containing location information for MHs
 * To get the idea, consider a system with only one LR, a **Home Location Registrar**
-* Location is maintained at a single-cell granularity \ 
+* Location is maintained at a single-cell granularity <br> 
 ![image](https://user-images.githubusercontent.com/17733481/156081169-d61834ae-9e76-4da5-8fb3-63a75f72ceab.png)
 ### Enhancements
 * can add a timestamp and time-to-live (TTL) to registration information
@@ -57,4 +57,49 @@
    * granularity of RA (how to config system into multiple RAs)
      * same size (homogeneous) or different size (in terms of cells)?
      * optimization problem: how to partition the cells into RAs taking into account call + mobility pattern so as to optimize "LM cost"
+### Multiple Registrars
+* Forwarding pointers - when maintaining multiple location registrars, use a chain of forward pointers to track the MH
+* Replication of location registrars - flat, hierarchical
+* Flat - entire network is spanned over serveral location registrars of the same level (k random location registrars) - flat replication
+    * avg update cost - O(k)
+    * avg search cost - O(n/k)  
+* Hierarchical - like a tree  
+   * avg update cost - O(log n) 
+   * avg search cost - O(log n) <br> ![image](https://user-images.githubusercontent.com/17733481/156268526-8fbc4ec0-3325-4cfe-a195-f34ea363c1d5.png)
+* Can have a mixture of hierarchical and flat 
+
 ## Mobile Internet Protocol (IP)
+### Mobile Internet Protocol (IP)
+* Idea is to have unlimited range
+* Replicate the wireless connection of wifi, but increase the range
+* A protocol is needed which allows network connectivity across host movement
+* Protocol to enable mobility must not require massive changes to router software, etc.
+* Must be compatible with large installed base of IPv4 networks/hosts
+* Confine changes to mobile hosts and a few support hosts which enable mobility
+* Just hacking DNS won't work: DNS updates take time, hooks for normal users to update DNS won't be accepted by administrators, after DNS lookup raw IP address is used by TCP, UDP,...
+* IP
+   * network layer, "best-effort" packet delivery
+   * support UDP and TCP (transport layer protocols)
+   * IP host addresses consists of two parts: network ID and host ID
+   * by design, an IP host address is tied to a home network address
+   * hosts are assumed to be wired and immobile
+   * intermediate routers look only at a network address
+   * mobility without a change in IP address results in unrouteable packets
+### Mobile Internet Protocol (IP) Basics
+* Proposed by IETF (Internet Engineering Task Force) - standards development body for the Internet
+* Mobile IP allows a mobile host to move about without changing its **permanent** IP address
+* Each mobile host has a **home agent** on its **home network**
+* **Foreign agents** on remote networks also assist
+* Mobile host establishes a **care-of** address when it's away from home
+* **Correspondent host** is a host that wants to send packets to the mobile host
+* correspondent host sends packets to the mobile host's IP permanent address
+* these packets are routed to the mobile host's home network
+* Home agent forwards IP packets for mobile host to current care-of address
+* Mobile host sends packets directly to correspondent, using the permanent home IP as the source IP
+* 
+
+### Mobile IP: Nuances
+### Mobile IP: Inefficiencies
+### Mobile IP: Remote IP
+### Mobile IP: Security
+### Mobile IP: Address Resolution Protocol (ARP)

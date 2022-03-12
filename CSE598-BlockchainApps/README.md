@@ -7,4 +7,7 @@ leading edge by presenting the abstract nature of blockchain technology and emph
 applicability. Topics include the mathematical and cryptographic underpinnings of the technology, as well as
 mining, consensus protocols, networking, and decentralized governance. 
 
-## Week 1 (Notes coming soon)
+> Additional Reading I'm Doing: [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
+## Week 1 
+
+#### [📓 Notes](week1-notes.md) - Intro to Blockchain

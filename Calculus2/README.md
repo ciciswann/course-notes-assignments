@@ -34,9 +34,9 @@
 [📝 7](7.md) 
 
 ## Week 7
-[🗣️ Discussion Post](discussion2.md)
+[🗣️ Discussion Post](discussion2.md) \
 [📝 8](8.md)
 
 ## Week 8
-[📝 9](9.md) 
+[📝 9](9.md) \
 [📝 10](10.md) 

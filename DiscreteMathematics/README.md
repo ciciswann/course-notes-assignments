@@ -48,8 +48,9 @@ Discrete math is applied math; it provides the basis for much of computer scienc
 
 **Quiz 7 Score** - 100%
 
-## Week 8 
+## Week 8 - Probability
+#### [✍🏻 Assignment](week8-assignment.md)
 **Quiz 8 Score** - 100% 
 
-**Final Exam Score** - 95% 
+**Final Exam Score** - 95% (Covered material from all weeks of course)\
 **Final Written** - TBD 🤞

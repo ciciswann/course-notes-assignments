@@ -17,7 +17,7 @@ A compilation of notes and assignments for courses related to my CS degree.
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md)
 #### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md)
 
-### Supplementary Courses
+### Supplementary/Refresher Courses
 Math. I dig it.
 #### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md)
 #### [Calculus II (UCSD Extension)](Calculus2/README.md)

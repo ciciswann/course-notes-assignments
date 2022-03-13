@@ -3,7 +3,7 @@
 This course covers important topics in mobile computing. 
 
 <details>
-<summary>Specific topics covered:</summary>
+<summary>Specific topics covered: (Click arrow for dropdown list)</summary>
 
 * Mobile programming
 * Internet of Things (IoT)

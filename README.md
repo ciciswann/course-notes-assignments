@@ -12,15 +12,15 @@ A compilation of notes and assignments for courses related to my CS degree.
 ## Courses
 
 ### Graduate Courses
-#### [CSE 535 - Mobile Computing](CSE535-MobileComputing/README.md)
-#### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md)
-#### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md)
-#### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md)
+#### [CSE 535 - Mobile Computing](CSE535-MobileComputing/README.md) [✔️ COMPLETED] 
+#### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md) [✔️ COMPLETED] 
+#### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [🟨 IN PROGRESS]
+#### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md) [🟨 IN PROGRESS]
 
 ### Supplementary/Refresher Courses
 Math. I dig it.
-#### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md)
-#### [Calculus II (UCSD Extension)](Calculus2/README.md)
+#### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md) [✔️ COMPLETED] 
+#### [Calculus II (UCSD Extension)](Calculus2/README.md) [✔️ COMPLETED] 
 
 ### Upcoming Fall Courses
 * **CSE 551 - Foundations of Algorithms** (Advanced topics in formal algorithm design and analysis including amortized analysis, network flows, NP-completeness, computational geometry. I'm so excited for this one 🤩)

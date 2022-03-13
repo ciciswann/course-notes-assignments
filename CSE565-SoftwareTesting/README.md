@@ -22,7 +22,7 @@ cases.
 * Test process improvement
 </details>
 
-> Note: I was lazy with note taking and only took thorough notes for weeks 5 through 8
+> Note: I was pretty lax with note taking initially and only took thorough notes for weeks 5 through 8 in prep for the Final exam
 
 
 ## Week 5

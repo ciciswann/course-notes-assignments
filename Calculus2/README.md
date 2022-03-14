@@ -42,4 +42,4 @@
 [📝 10](10.md) 
 
 ## Week 9
-**Final Exam Score**- 98% 
+**Final Exam Score** - 98% 

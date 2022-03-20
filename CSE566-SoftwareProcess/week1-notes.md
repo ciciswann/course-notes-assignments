@@ -8,11 +8,14 @@
 * [Incremental Model](#incremental-model)
 * [Time Box Model](#time-box-model)
 * [Readings](#readings)
+* [Software Configuration Management](#software-configuration-management)
+* [Open Source and the Software Supply Chain](#open-source-and-the-software-supply-chain)
 
-#### Software Development History
+### Software Development History
 * Complexity factors of software development: High cost, Difficult to manage, Poor reliability, Lack of user acceptance, Difficult to maintain
 
-#### Software Development SOA
+### Software Development SOA
+* Service Oriented Architecture
 * Current state is still there with the same challenges as mentioned above
 * **High cost** - software development is labor intensive, software productivity rates for engineering are around 1 loc (lines of code) per hour
 * Off The Shelf Software and Hardware costs have both dropped dramatically overtime
@@ -23,14 +26,14 @@
 * **Difficult to Maintain** - Despite advances in languages and methodologies, software is still difficult to maintain, maintenance requires both knowledge of the cose as well as the application domain
 * **Time to Market** - software takes too long 
 
-#### Successful Software Projects
+### Successful Software Projects
 * Perspectives on Successful Projects: (Two) what is a successful project from the perspective of the customer (on time, on budget, works-meets req, quality), what is a successful project from the perspective of the development org (profitable, didn't burn out team)
 * Statistics - 26% of all software projects fail, 46% experience costand schedule overruns or significantly reduced functionality
 * Symptoms of Failure - early: lack of project plan, lack of stakeholder communication, no external involvement of quality organization, project changes are managed poorly, deadlines are unrealistic, lack of understanding of user needs, project's scope is ill-defined, project lacks appropriate skills, best practices are ignored
 * fatal symptoms: excessive hard work, high staff turnover, aggressive and defensive behavior, no fun
 * critical success factors in software projects: start on the right foot (70% of dooming acts occur before a build ever starts, build the right team, give team what they need), maintain momentum (keep attrition low, monitor quality, manage the product not the ppl), track progress, make smart decisions, do lessons learned (post mortums, retrospectives)
 
-#### Waterfall Model
+### Waterfall Model
 * A software dev process model defines the steps that must be taken in developing the product
 * each step must be **well-defined activity** with entry and exit criteria (when can i start, when can i end)
 * intermediate work products are typically generated as a consequence of many steps
@@ -43,7 +46,7 @@
 * Advantages: easy to plan, easy to track
 * Disadvantages: hard to accomodate changes, cannot begin until all the of the reqs are defined (takes too long)
 
-#### Incremental Model
+### Incremental Model
 * Constructs the software as a series of builds or increments: sequential, concurrent
 * Sequential development occurs in separate increments or sequences, whereas concurrent development occurs with multiple increments being built at the same time
 * each build contains a set of capabilities of the end product
@@ -164,7 +167,72 @@
   * Code smells - not up to quality and need to be refactored
 
 #### The Future of DevOps
+* DevSecOps - Code quality, reliability, assurance, security
+   * need both a low cost of change and a low cost of failure
+* Autonomous devops automation will become the new normal
+* Corporate culture will transform as business leaders shift their focus
+* App security will no longer be an afterthought - Application teams will be able to develop a culture of continuous development and leverage automation
+* Analytics techniques will be adopted at every step (prioritize backlog items) - Maximize customer satisfaction, prioritize backlog items, effective test validation, minimize risk through impact testing
+* Predictive DevOps
+* Platform as a product model for internal platforms
 
 #### Debunking Agile Myths
+* Agile methods are undisciplined and not measureable - not adhoc
+* Agile methods have no project management - scrum master, self-managing
+* Agile methods do not include planning - sprint zero
+* Agile methods only work with small teams - scrums of scrum teams
+* Agile methods only apply to software dev - other fields
+* Agile methods have no documentation - value added docs
+* Agile methods have no requirements - captured in backlog
+* Agile dev is not predictable - flexibility to pivot
+* Agile methods don't scale 
 
 #### Lean Software Development Principles
+* Emphasis of Lean - reducing waste in terms of time and staffing, focus on value to the customer, product, and the enterprise; stress the benefits of more flexible, iterative, lightweight development process
+* 7 principles - optimize the whole, eliminate waste, build quality in, learn constantly, deliver fast, engage everyone and keep getting better
+* Waste - anything that doesn't add value, unnecessary code or functionality, extra features
+* Decide as late as possible
+* Build integrity in
+* See the whole - optimize the product - system perspective
+
+#### Service Orientation and Systems of Systems
+* Service-Oriented System View \
+![image](https://user-images.githubusercontent.com/17733481/159190055-fb17fa0f-ba9d-43b8-9a37-ee227d98196f.png)
+* A system of systems helps to integrate independent and useful systems into a larger system that delivers unique capabilities
+* This helps distinguish characteristics of SoS versus large monolithic systems
+* Word Processor on stand-alone PC to GiG (Global Information Grid)
+* The main actors of SoS engineering approach are: SoS End User, System End User, System Developer, SoS Developer/Integrator
+* Capabilities need to be analyzed by integrational developer - they are in charge of searching for matching capabilities
+* SoS characteristics - Operational independence, managerial independence, evolutionary development, emergent behavior, and geographic distribution
+
+#### Crowdsourcing for Software Engineering
+* Act of a company or institution taking a function once eprformed by employees and outsourcing it to an undefined and generally large network of people in the form of an open call
+* Not free
+* Example - Netflix prize contest
+* Microtasks or something more extreme
+* Topcoder
+* Rating, Processing, Creation, Problem Solving
+
+### Software Configuration Management
+* Dates back to the late 1940s - missile program
+* SCM - involves identifying the configuration of the software at given points in time, systematically controlling changes to the configuration, and maintaining the integrity and traceability of the configuration throughout the software lifecycle
+* Release and be able to replicate
+* Objectives and benefits: increased product quality, reduced life cycle costs, increased management visibility, improved communication, increased productivity, reproducibility and reuse
+* CM is structured into four integrated processes: configuration identification, control, status accounting and audits
+* Configuration identification - configuration item (CI) aggregation of items, that satisfies an end use function or set of functions
+* Control - consists of the systematic proposal, evaluation, coordination, approval, of proposed changes, and the implementation of approved changes in the configuration of a config item
+* establishment of repositories (disaster recovery)
+* Config Control Board - proposed changes and give a decision 
+* Which statement best aligns with the concept of software configuration management? Keeping track of historical changes from within the software repository 
+* Status accounting - track of information and changes that have been made, this info includes a listing of the approved config identification, status of proposed changes, implementation status of approved changes
+* Auditing - independent examinations of work product and activities to assess compliance with designated criteria
+* Question: What is considered harmful for software configuration management in a project? Decreased productivity
+
+### Open Source and the Software Supply Chain
+* Enterprise applications typically include 75-80% open source components
+* Software Supply Chain - products built of hundreds of components, in turn bult from other (transitive dependencies), each component has its own lifecycle, bug fixes, feature enhancements, and risks (security/intellectual property)
+* Component Life Cycle Management (CLM)
+   * Step 1: Garther info about current component usage
+   * Step 2: Understand vulnerabilities in apps
+   * Step 3: Control - establish policies regarding security, make sure components don't have known vulnerabilities
+   * Step 4: Monitor updates - 

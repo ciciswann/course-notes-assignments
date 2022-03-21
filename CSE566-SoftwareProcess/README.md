@@ -9,3 +9,5 @@ The success of a software project is dependent upon many factors and requires sk
 ## Week 2
 
 #### [📓 Notes](week2-notes.md)
+
+**Project #1** - Code Smells, Refactoring Patterns, and Refactoring Software Case Study

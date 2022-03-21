@@ -5,3 +5,7 @@ The success of a software project is dependent upon many factors and requires sk
 ## Week 1 
 
 #### [📓 Notes](week1-notes.md)
+
+## Week 2
+
+#### [📓 Notes](week2-notes.md)

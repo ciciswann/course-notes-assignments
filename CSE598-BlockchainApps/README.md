@@ -11,3 +11,7 @@ mining, consensus protocols, networking, and decentralized governance.
 ## Week 1 
 
 #### [📓 Notes](week1-notes.md) - Intro to Blockchain
+
+## Week 2
+
+#### [📓 Notes](week2-notes.md) - Intro to Hash Functions for Password Handling

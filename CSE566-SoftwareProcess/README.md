@@ -11,3 +11,6 @@ The success of a software project is dependent upon many factors and requires sk
 #### [📓 Notes](week2-notes.md)
 
 **Project #1** - Code Smells, Refactoring Patterns, and Refactoring Software Case Study - The code smells I focused on were Blob Class, Spaghetti Code, and Functional Decomposition
+
+## Week 3
+#### [📓 Notes](week3-notes.md)

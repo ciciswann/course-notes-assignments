@@ -14,3 +14,7 @@ The success of a software project is dependent upon many factors and requires sk
 
 ## Week 3
 #### [📓 Notes](week3-notes.md)
+**Project #2** Software Configuration Management - The SCM tool I focused on was Ansible
+
+## Week 4
+#### [📓 Notes](week4-notes.md)

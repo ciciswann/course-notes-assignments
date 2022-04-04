@@ -16,6 +16,6 @@ mining, consensus protocols, networking, and decentralized governance.
 
 #### [📓 Notes](week2-notes.md) - Intro to Hash Functions for Password Handling
 
-## Week 3
+## Week 3 - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
 
 #### [📓 Notes](week3-notes.md)

@@ -45,10 +45,18 @@
 * Risk tradeoffs - interrelationships may exist among risks; actions taken to reduce one risk may increase another; be careful during risk mgmt to ensure that these interrelationships
 * reduce the probability of the risk occurring
 * reduce the potential impact of the risk, should it occur (contingency planning): 
+* mitigation actions for one risk might impact another risk
+* risk mitigation for loss of key personnel is to develop a contingency plan involving hiring consultants
 
 #### Taxonomy-based Risk Identification
+* checklist for risk identification
 
 ### People Management
+* Soft skills
+* In traditional project - project manager manages the project timeline, resources, and scope in order to meet business requirements
+* in agile - a scrum master is a coach and facilitator 
+* program manager - involved in hiring, firing, budgeting, performance reviews, and mentoring
+* 
 
 ### Additional Basic Management Skills
 

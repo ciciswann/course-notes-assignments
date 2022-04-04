@@ -18,4 +18,4 @@ mining, consensus protocols, networking, and decentralized governance.
 
 ## Week 3 - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
 
-#### [📓 Notes](week3-notes.md)
+#### [📓 Notes](week3-notes.md) - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts

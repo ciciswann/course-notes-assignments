@@ -15,3 +15,7 @@ mining, consensus protocols, networking, and decentralized governance.
 ## Week 2
 
 #### [📓 Notes](week2-notes.md) - Intro to Hash Functions for Password Handling
+
+## Week 3
+
+#### [📓 Notes](week3-notes.md)

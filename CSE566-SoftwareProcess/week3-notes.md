@@ -40,6 +40,11 @@
 * accept risk when there is high probability of the risk occurring but a very small negligible impact on the task
 
 ### Risk Mitigation
+* Once the project risks have been identified and analyzed the set of risks to be managed must be selected
+* Select those risks to manage where the benefirts outweight the costs (leverage risks, insurtance deductible analogy)
+* Risk tradeoffs - interrelationships may exist among risks; actions taken to reduce one risk may increase another; be careful during risk mgmt to ensure that these interrelationships
+* reduce the probability of the risk occurring
+* reduce the potential impact of the risk, should it occur (contingency planning): 
 
 #### Taxonomy-based Risk Identification
 

@@ -18,3 +18,4 @@ The success of a software project is dependent upon many factors and requires sk
 
 ## Week 4
 #### [📓 Notes](week4-notes.md)
+**Midterm Week**

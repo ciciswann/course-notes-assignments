@@ -19,3 +19,7 @@ mining, consensus protocols, networking, and decentralized governance.
 ## Week 3 - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
 
 #### [📓 Notes](week3-notes.md) - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
+
+## Week 4 
+
+**Project 1** - Hyperledger Fabric Smart Contract 

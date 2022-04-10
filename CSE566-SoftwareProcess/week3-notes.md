@@ -56,13 +56,33 @@
 * In traditional project - project manager manages the project timeline, resources, and scope in order to meet business requirements
 * in agile - a scrum master is a coach and facilitator 
 * program manager - involved in hiring, firing, budgeting, performance reviews, and mentoring
-* 
+* max individual performance and team performance
+* skills: leadership, communication, deligation
+* leadership: technical awareness, dedication, the right personal attitudes, motivation skills, team building
+* creates a vision of a successful project - believe in goals, share goals with team, align project goals with team goals
+* leaser monitors and control the project, make informed decisions in a timely fashion
+* takes responsibility, respects, ethical, provide feedback, protect from distractions
+* demonstrates concern and understanding, good decision, disciplined work styles, ability to delegate
 
 ### Additional Basic Management Skills
+* communication: good with all team members, approachable; status reports, meetings, walk-arounds
+* **deligation**: responsibility to others to perform tasks independently, requires person to perform the task to clearly understand what is expected, possess the authority to perform the task, know how to effectively perform the activity; encourage person to innovate; determine reporting schedule up front, track outcomes against agreed-upon criteria
+* **negotiation**: resolving a conflict in a way that all stakeholders are satisfied; requires the applications of many skills; observation, ability to move past blockages, understand perspectives, ability to focus on the big picture, creativity to find win-win solutions, ability to sell the solution
+* **motivation**: money, recognition, pride, contribution; learn the needs, goals, and motives of your team; implement a reward system, provide a work environment and task structure, motivated if goals, plans, reqs, and expectations are clearly communicated
+* **problem solving**: find cause and attempt to eliminate it (not all causes can be eliminated, workaround must be found)
+   * carefully define current situation, establish goal, determine gap between the current situation and the goal, identify the root problem that prevents achieving the goal
 
 ### Management Styles
+* Theory X (control) - autocrat; view employees as motivated by money, motivated by fear; micromanagers; must have detailed procedures
+* Theory Y - manager is a coach; need to strive for growth, are motivated by achievement, freedom and self-control; do not need or want close supervision; are eager to use creativity and take initiative
+* Theory Z - facilitator; focus on the relationship of the individual to the organization; lifetime employment, slow evaluation and promotion, non-specialized career path, holistic concerns
+* Theory W - negotiator; understanding how people want to win, establish reasonable expectations, matching team members
+* utilization of a combination of styles
 
 ### Team Development
+* improve the knowledge and skills of all team members
+* strategies for team development include: training, job rotation, mentoring, reviews, appraisals, and feedback
+* 
 
 ### Training Software Project Managers
 

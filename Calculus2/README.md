@@ -44,4 +44,4 @@
 [📝 10](10.md) 
 
 ## Week 9
-**Final Exam Score** - 98% 
+**Final Exam Score** - 98% (I did a practice test a couple days before the final to identify my weak topics and focused on them in prep for this final exam. Overall, very happy with the result 😸)

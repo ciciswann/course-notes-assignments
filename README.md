@@ -21,6 +21,7 @@ A compilation of notes and assignments for courses related to my CS degree.
 Math. I dig it.
 #### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md) [✔️ COMPLETED] 
 #### [Calculus II (UCSD Extension)](Calculus2/README.md) [✔️ COMPLETED] 
+#### [Algorithms - Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford)](AlgorithmsPart1/README.md)[🟨 IN PROGRESS]
 
 ### Upcoming Fall Courses
 * **CSE 551 - Foundations of Algorithms** (Advanced topics in formal algorithm design and analysis including amortized analysis, network flows, NP-completeness, computational geometry. I'm so excited for this one 🤩)

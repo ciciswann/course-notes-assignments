@@ -32,4 +32,14 @@
 * Example: One Loop - O(n)
 
 ### Big Oh Notation
-* 
+* let T(n) = function on n=1,2,3,... [usually the worst-case running time of an algorithm]
+* Q: when is T(n) = O(f(n))?
+* A: If eventually (for all sufficiently large n), T(n) is bounded above by a constant multiple of f(n)
+* Formal definition: T(n) = Of(n) if and only if there exist constants c,n<sub>0</sub> > 0 such that T(n) <= c*f(n) for all n >= n<sub>0</sub>
+
+### Big Omega and Theta
+* Omega - definition: T(n) = Ω(f(n)) if and only if ∃ constants c,n<sub>0</sub> such that T(n) >= c*f(n) ∀n >= n<sub>0</sub>
+* Theta - definition: T(n) = Θ(f(n)) if and only if T(n) = O(f(n)) and T(n) = Ω(f(n))
+* Little-Oh Notation: strictly less than notation
+  * T(n) = o(f(n)) if and only if for all constants c > 0 , ∃ a constant n<sub>0</sub> such that T(n) <= c*f(n) ∀n >= n<sub>0</sub>
+

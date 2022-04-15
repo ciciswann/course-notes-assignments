@@ -1,6 +1,6 @@
 # CS Course Notes and Assignments
 
-A compilation of notes and assignments for courses related to my CS degree.
+**A compilation of notes and assignments for courses related to my CS degree.**
 
 > **Computer science** deals with idealized components. We know as much as we want about these little program and data pieces that we're fitting things together. We don't have to worry about tolerance. And that means that, in building a large program, there's not all that much difference between what I can build and what I can imagine, because the parts are these abstract entities that I know as much as I want. 
 > 

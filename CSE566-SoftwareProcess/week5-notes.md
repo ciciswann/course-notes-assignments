@@ -1,5 +1,10 @@
 # Week 5 Notes
 
+* [Global Software Development](#global-software-development)
+* [Scrum Practices and Global Software Development](#scrum-practices-and-global-software-development)
+* [SWOT for Scaling Agile Methods in Global Software Development](#swot-for-scaling-agile-methods-in-global-software-development)
+* [Software Acquisition Management](#software-acquisition-management)
+
 ### Global Software Development
 * entails geographically distributed team developing, testing and maintaining software
 * What are the motivations?
@@ -43,3 +48,14 @@
 * broader term for outsourcing
 * refers to vendorng out the development
 * generic types: purchase off-the-shelf software from a supplier, contract with a supplier to develop software in conformance to a technical spec, engage the services of ppl
+* Factors influencing outsourcing decision: 
+   * need for specialized/advanced technology or capability
+   * strategic value of system
+   * cost
+   * strategic alliance
+   * maintenance support
+   * speed of development
+   * desire for level staffing
+
+
+#### A Process for Managing Risks in Distributed Teams

@@ -15,7 +15,7 @@
    * sharing benefits of resources from diff cultures & backgrounds
    * flexibility in skill mgmt
    * reduced cycle time
-* Challenges to GSE:
+* Challenges to GSD:
    * Lack of strategy & shared values
    * Insufficient communication
    * Cultural differences

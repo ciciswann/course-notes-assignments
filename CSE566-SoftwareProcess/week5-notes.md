@@ -89,3 +89,8 @@
 * Paper presents framework to manage risks, including web based tool
 * Table 1 - taxonomy of risk areas
 * Table 2 - techniques for approaching risk mgmt tied to risk areas
+* Figure 1:
+  * Step 1: Identify and analyze risks: involve team members from each locations, discuss individual site assessments at joint meetings, prioritize risks
+  * Step 2: Develop risk mitigation plans
+  * Step 3: Implement risk mitigation plans
+* Strategies: courses about differences in culture, creating understanding and acceptance, focus on the strengths of diversity rather than weaknesses  

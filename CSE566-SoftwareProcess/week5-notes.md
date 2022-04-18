@@ -4,6 +4,7 @@
 * [Scrum Practices and Global Software Development](#scrum-practices-and-global-software-development)
 * [SWOT for Scaling Agile Methods in Global Software Development](#swot-for-scaling-agile-methods-in-global-software-development)
 * [Software Acquisition Management](#software-acquisition-management)
+* [A Process for Managing Risks in Distributed Teams](#a-process-for-managing-risks-in-distributed-teams)
 
 ### Global Software Development
 * entails geographically distributed team developing, testing and maintaining software

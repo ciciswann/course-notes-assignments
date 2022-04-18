@@ -56,6 +56,35 @@
    * maintenance support
    * speed of development
    * desire for level staffing
-
+* Software Outsourcing Activites:
+  * Define the work to be subcontracted
+    * Partition the product and its activities
+    * select the subcontracted work to: maximize the organization's effectiveness, match the skills and capabilities of potential subcontractors, minimize communication and coordination efforts, minimize dependencies, minimize risk of the subcontractor's knowledge not being transferred to the organization 
+  * Develop the outsourcing plan
+    * Develop a technical specification for the work
+    * Develop a statement of work for the supplier (identify all tasks to be performed, relevant processes to be followed, maintenance responsibilities)
+    * Perform risk mgmt (identify outsourcing risks early on, adjust acquisition strategy to minimize risks)
+    * estimate resources needed, including: supplier development effort, effort for vendor mgmt
+  * Select a subcontractor
+    * Factors to consider in selecting a supplier: strategic business alliances, prior performance on similar work, geographic location, software engineering and software mgmt capabilities, available staff, domain expertise, cost, similarity of processes and tools, business viability 
+  * Contract with the subcontractor
+    * work with purchasing and legal department 
+  * Oversee the development to ensure that is on schedule, within cost, and meeting reqs
+    * A plan must be developed for supplier tracking and oversight
+    * The plan must address: activities to be performed and the schedule to complete them, identification of groups, assigned responsibilities, and intergroup comm., techniques, tools, and methodologies for tracking and reviewing vendor performance, escalation procedures
+    * tracking and oversight activities: maintaining good communication, visibility, conducting reviews, assessing metrics, continuous risk mgmt, approving invoices
+  * Perform acceptance testing
+    * acceptance testing is a formal procedure which has contract implications, acceptance testing must provide a convincing demo of the systems functionality in detail, the acceptance test must be constructed in a systemic manner 
+  * Integrate the component into the product
+    * component must be integrated into the product
+    * documentation and test cases must be updated appropriately
+    * component is placed under configuration mgmt 
+* Components of outsourcing agreement: contract, statement of work, technical specs
+* Supplier mgmt activities: selection - searching for and evaluating vendors, specifying legal terms of the contract, negotiating the contract; subcontract mgmt - conveying and explaining reqs, monitoring vendor, including reviews, resolving problems
+* Ultimately, the work must be accepted and integrated into the product
 
 #### A Process for Managing Risks in Distributed Teams
+* To manage, managers must: know how to build teams across sites, how to breakdown and distribute work, how to share knowledge across time, space and cultural differences, how to coordinate work, how to manage risks
+* Paper presents framework to manage risks, including web based tool
+* Table 1 - taxonomy of risk areas
+* Table 2 - techniques for approaching risk mgmt tied to risk areas

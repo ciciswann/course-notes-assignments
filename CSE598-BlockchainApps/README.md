@@ -22,6 +22,8 @@ mining, consensus protocols, networking, and decentralized governance.
 
 ## Week 4 
 
+#### [📓 Notes](week4-notes.md)
+
 **Project 1** - Hyperledger Fabric Smart Contract 
 
 ## Week 5

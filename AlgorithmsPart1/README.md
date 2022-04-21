@@ -6,3 +6,6 @@ The primary topics in this part of the algorithm specialization are: asymptotic 
 
 ## Week 1
 #### [📓 Notes](week1-notes.md)
+
+## Week 2
+#### [📓 Notes](week2-notes.md)

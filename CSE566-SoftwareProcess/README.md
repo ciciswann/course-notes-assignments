@@ -23,3 +23,6 @@ The success of a software project is dependent upon many factors and requires sk
 ## Week 5
 #### [📓 Notes](week5-notes.md)
 **Project #3** - Illustrating the Use of the Model - COCOMO Estimation for building an ATM embedded system
+
+## Week 6
+#### [📓 Notes](week6-notes.md)

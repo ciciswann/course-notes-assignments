@@ -26,3 +26,4 @@ The success of a software project is dependent upon many factors and requires sk
 
 ## Week 6
 #### [📓 Notes](week6-notes.md)
+**Project #4** - Training Software Leaders - The topic I chose to discuss was Software Analytics

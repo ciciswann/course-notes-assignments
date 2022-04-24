@@ -107,16 +107,103 @@
 * root cause analysis makes sense, is easy to apply, reduces defects, reduces rework, improves processes
 
 #### Applying Software Engineering Standard in Very Small Entities
+* Standards are a form of technology transfer
+* VSEs are defined by: 
+   * less than 25 ppl
+   * hard to relate to ISO/IEC or CMMI standards
+   * ISO developed new standard ISO/IEC 29110 targeted to VSEs with no experience in selecting appropriate processes
+* Core is a mgmt and enginnering guide focusing on project mgmt and software implementation
+* Figure 1 - process begins with SOW and ends with customer receiving software configuration
  
 #### Hybrid Agile Software Development
+* due to various constraints or teams physical distribution or reqs
+* competing goals - respond rapidly with product changes vs highly regulated environments requiring compliance to standards
+* hybrid-agile: attemp to tailor agile methods
+* reading provides motivation for hybrid-agile approaches and understand anti-patterns and related risks on hybrid-agile related efforts
+* **antipattern 1**: creating an aggregated team velocity metric across several small teams in a large project - each team should measure its own velocity (sp per sprint)
+* **antipattern 2**: telling the team to work harder: regular overtime increases team burnout and does not address root cause, use store point efficiency metric (estiated time to complete a user story/actual time), teams are self-directed and have responsibility to identify and resolve performance issues
+* **antipattern 3**: failing to actively manage risk exposure: identify risks at small team level and roll up
+* **antipattern 4**: failure to actively manage stakeholder involvement and representation competency: need the right stakeholders involved
+* **antipattern 5**: using proxy releases: not really releasing operational product to actual customer, causes a lack of rigor in testing processes, don't gain buy-in and review from actual customer
+* **antipattern 6**: essentially traditional dev: not following agile practices (customer engagement)
+* **antipattern 7**: using reqs volatility measure to inappropriately control scope creep - agile reqs effective collaborative relationship to provide best value to customer
 
 #### Enough Software Processes, Let's Do Patterns
+* typical task breakdown
+* proposes the use of software process patterns: ways to communicate to less experienced practitioners what experienced practicitioners know
+* information practitioners need: basic info about a process (what to do, checklists, completion criteria), information needed while executing a process (things to watch out for, trade-offs)
+* example review - questions should be asking, practical tips, warnings, see examples
 
 #### Using Analytics to Guide Improvement During an Agile DevOps Transformation
+* analytics as a guide for projects in their use of software technologies and assess their benefits
+* case study
+* lots of choices of what to measure
+* for productivity, Fannie mae - chose automated function points, increase in productivity and quality
+   * automated function points - provide an indication of the amount of functionality delivered per unit of effort 
+* Structural quality analytics can be captured across the organization and its products (ex. visual heatmap, enterprise trending)
+* Total Quality Index - Robustness, performance efficiency, security, changeability, and transferability 
 
 ### Process Maturity
+* dates back to 1980s (DoD - Request for Proposal)
+* Maturity Models - numerous models have been developed to enable an org to assess their processes in terms of their rigor and ability to consistently develop successful projects as well as continuous improve
+* Example: Capability Maturity Model, Capability Maturity Model Integration, Testing Maturity Model, People Capability Maturity Model, Personal Software Process
+* CMM - 1986, maturity in terms of 5 levels, self-assessment approach 
+   * levels:
+      * 1 - Initial - ad hoc software dev
+      * 2 - Repeatable - success attributed to key individuals
+      * 3 - Defined - documented methodology in place
+      * 4 - Managed - metrics used to measure effectiveness
+      * 5 - Optimizing - emphasis on process improvement   
+* CMMI - 2002, integrates software dev with system engineering and product dev, provides both continuous and staged assessment, CMMI 2.0 released 2018
+   * Process Areas (PAs)
+      * Project Mgmt - planning, monitoring, supplier agreement
+      * Support - Config mgmt, process and product quality assurance
+      * Engineering - reqs mgmt, validation, verification
+      * Process Mgmt - Organizational process focus, process definition, training
+   * Two models for CMMI 
+* TMMI - test maturity model integrated, developed to assess maturity of testing processes, five levels, ATRs (activities, tasks, responsibilities)
+   * Level 1: Initial - ad hoc testing without goals, testing process begins after code is written, is not a priority, tracking is not performed
+   * Level 2: Phase Definition - testing plans, basic testing methods, goals are defined
+   * Level 3: Integration - software testing is integrated into the software dev process, test progress is monitored and tracked, testers trained, risk mgmt is performed
+   * Level 4: Management and Measurement - metrics introduced, review processes are introduced to assess effectiveness and efficiency - TE = # defects found/ defects to be found
+   * Level 5: Optimization, Defect Prevention & Quality Control - root cause analysis is performed to prevent defects from reaching customer, statistical quality control, test process improvement
+* People Capability Maturity Model
+   * Initial - inconsistent ppl mgmt
+   * Managed - repeatable
+   * Defined - competency based mgmt practices
+   * Predictable - measured and empowered
+   * Optimizing - continuously improving capabilities of individuals
+* Personal Software Process (SEI) - 
+   * PSP0: the developer has a personal process for dev
+   * PSP1: the dev has a personal process for estimating dev time
+   * PSP2: the dev has a personal process for quality mgmt (preventing and detecting defects) 
 
 #### Improving Agility and Discipline of Software Development with the Scrum and CMMI
+* the goal is to bring more maturity to agile processes to help improve quality and process manageability
+* authors map scrum to CMMI 2 and 3 practices: higher levels not considered because they would compromise Scrum too much
+* authors create extensions for partially covered practices and new practices for those not covered
+* table 1 - full, partial, none
+* paper discusses approach for a team to customize their processes selecting which CMMI practices should be introduced
+* Which Scrum practices does "monitoring the commitment level in comparison to the scheduled one" relate to? Burndown charts and sprint review meetings
+* monitor data mgmt - record activities of project mgmt - project backlogs and charts
 
 #### CMMI V2 Model At a Glance
-
+* similar to levels of CMMI 1.3
+* Maturity Level 5: Optimizing
+   * stable and flexible
+   * organization is focused on continuous improvement and is built to pivot and respond to opportunity and change
+* Maturity Level 4: Quantitatively Managed
+   * measured and controlled
+   * organization is data-driven with quantitative performance improvement objectives that are predictable and align to meet the needs of internal and external stakeholders
+* Maturity Level 3: Defined
+   * proactive rather than reactive
+   * organization wide standards provide guidance across projects, programs, and portfolios
+* Maturity Level 2: Managed
+   * managed on the project level
+   * projects are planned, performed, measured, and controlled
+* Maturity Level 1: Initial
+   * unpredictable and reactive
+   * work gets completed but is often delayed and over budget
+* Maturity Level 0: Incomplete
+   * ad hoc and unknown
+   * work may or may not get completed

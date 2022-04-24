@@ -29,3 +29,7 @@ mining, consensus protocols, networking, and decentralized governance.
 ## Week 5
 
 #### [📓 Notes](week5-notes.md)
+
+## Week 6
+
+#### [📓 Notes](week6-notes.md)

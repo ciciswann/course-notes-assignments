@@ -17,7 +17,7 @@
   * the software leader must plan to collect the appropriate metrics as previously described
 * **Characterize Target Process**
   * identify the ultimate goal of the process: for example - minimize cycle time, minimize late reqs
-* Process re-design
+* **Process re-design**
   * improve the current process in the direction of the target process
   * explore ways for eliminating, simplifying, or combining activities
   * explore ways of elim. rework

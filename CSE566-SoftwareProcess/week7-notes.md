@@ -65,7 +65,36 @@
   * definition of entry and exit criteria for each development phase
   * identification of quality functions to be performed
   * specification of schedules and responsibilities for performing the quality functions
-* 
+* Nonfunctional reqs
+ * Products can have the same functions but different attributes
+ * performance, resource, security, safety
+* functional reqs - API
+* The House of Quality - correlation matrix, how, what, relationships, competitive assessments, how much
+ * what addresses customer needs
+ * how addresses design approaches to meet customer needs
+ * relationships illustrate the relative relationship of the design approach addresses the customer need (e.g. strong, weak)
+ * how much quantifies the impact of the design approach on the need
+ * correlation matrix describes the interaction between the design approaches (i.e. complementary, contradictory)
+ * competitive assessments provide a comparison of how other companies rank customer needs
+* Deriving non-functional requirements
+ * Begin by identifying stakeholder concerns and goals:
+  * concerns and goals form the basis of functional reqs
+  * concerns and goals provide constraints on the system
+ * Examples of concerns and goals: system shall be easy to use, system shall enable visualization of traffic scenarios
+ * concerns and goals are further decomposed into sub-goals and eventually non-functional quantitative reqs
+* Quality Attributes
+ * attributes such as maintainability are not operational
+ * what does it mean to say the system shall be modifiable?
+ * quality attribute scenarios provide an operational and measureable definition of the quality requirement
+* Quality Attribute Scenarios
+ * a quality attribute specific res with six parts:
+  * stimulus: a condition that needs to be addressed
+  * its source: where it comes from
+  * the environment: the conditions when the stimulus occurs
+  * the artifact: what parts of the system are stimulated
+  * the response: quantitative and measurable
+  * the response measure: how we will measure  
+
 
 ### Software Quality Assurance
 

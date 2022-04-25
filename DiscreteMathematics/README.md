@@ -6,7 +6,7 @@ Discrete math is applied math; it provides the basis for much of computer scienc
 
 [Additional reading for course](https://cseweb.ucsd.edu//~gill/BWLectSite/)
 
-**Final Grade for Course**: 4.0 
+**Final Grade for Course**: 4.0 (A+)
 
 ## Week 1 - Logic
 #### [📓 Notes](week1-notes.md)

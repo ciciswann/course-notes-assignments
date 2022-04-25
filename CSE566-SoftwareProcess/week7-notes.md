@@ -70,31 +70,53 @@
  * performance, resource, security, safety
 * functional reqs - API
 * The House of Quality - correlation matrix, how, what, relationships, competitive assessments, how much
- * what addresses customer needs
- * how addresses design approaches to meet customer needs
- * relationships illustrate the relative relationship of the design approach addresses the customer need (e.g. strong, weak)
- * how much quantifies the impact of the design approach on the need
- * correlation matrix describes the interaction between the design approaches (i.e. complementary, contradictory)
- * competitive assessments provide a comparison of how other companies rank customer needs
+  * what addresses customer needs
+  * how addresses design approaches to meet customer needs
+  * relationships illustrate the relative relationship of the design approach addresses the customer need (e.g. strong, weak)
+  * how much quantifies the impact of the design approach on the need
+  * correlation matrix describes the interaction between the design approaches (i.e. complementary, contradictory)
+  * competitive assessments provide a comparison of how other companies rank customer needs
 * Deriving non-functional requirements
- * Begin by identifying stakeholder concerns and goals:
-  * concerns and goals form the basis of functional reqs
-  * concerns and goals provide constraints on the system
- * Examples of concerns and goals: system shall be easy to use, system shall enable visualization of traffic scenarios
- * concerns and goals are further decomposed into sub-goals and eventually non-functional quantitative reqs
+   * Begin by identifying stakeholder concerns and goals:
+     * concerns and goals form the basis of functional reqs
+   * concerns and goals provide constraints on the system
+   * Examples of concerns and goals: system shall be easy to use, system shall enable visualization of traffic scenarios
+   * concerns and goals are further decomposed into sub-goals and eventually non-functional quantitative reqs
 * Quality Attributes
- * attributes such as maintainability are not operational
- * what does it mean to say the system shall be modifiable?
- * quality attribute scenarios provide an operational and measureable definition of the quality requirement
-* Quality Attribute Scenarios
- * a quality attribute specific res with six parts:
-  * stimulus: a condition that needs to be addressed
-  * its source: where it comes from
-  * the environment: the conditions when the stimulus occurs
-  * the artifact: what parts of the system are stimulated
-  * the response: quantitative and measurable
-  * the response measure: how we will measure  
-
+  * attributes such as maintainability are not operational
+  * what does it mean to say the system shall be modifiable?
+  * quality attribute scenarios provide an operational and measureable definition of the quality requirement
+* Quality Attribute Scenarios - originates from use case modeling
+  * a quality attribute specific res with six parts:
+   * stimulus: a condition that needs to be addressed
+   * its source: where it comes from
+   * the environment: the conditions when the stimulus occurs
+   * the artifact: what parts of the system are stimulated
+   * the response: quantitative and measurable
+   * the response measure: how we will measure
+* General scenarios
+  * patterns for creating quality attribute scenarios
+  * general scenarios exist for: availability, modifiability, performance, security, usability
+  * general scenarios can serve as a requirements checklist
+  * applicability of general scenarios to the architecture tradeoff analysis methods
+* Utility Trees
+  * used to identify, prioritize, and refine the most important quality attribute goals
+  * the most important quality goals are identified at the highest level
+  * the quality scenarios are the leaves of the utility tree
+  * each quality scenario is prioritized - high/medium/low importance for the success of the system; high/medium/low difficulty to achieve (architect's assessment)    
+<img width="479" alt="Screen Shot 2022-04-25 at 1 02 45 🌃" src="https://user-images.githubusercontent.com/17733481/165165825-afaa240d-1e85-4e12-a02d-da58ddb5ac37.png">
+* Quality functions
+  * measurement
+    * appropriate measures must be defined for each of the attributes important to the project to facilitate the monitoring and controlling of project quality progress
+    * a plan for capturing the data in a timely manner must be developed  
+  * defect prevention
+    * standardization
+    * checklists and job aids
+    * causal analysis 
+    * lessons learned
+  * defect detection and removal 
+    * software inspections 
+    * various levels of testing
 
 ### Software Quality Assurance
 

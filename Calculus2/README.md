@@ -4,7 +4,7 @@
 
 **Note:** Most of the graded assignments come in the form of mini-quizzes. I will post my work after the submission date and any corrections that needed to be made. Please don't copy my work verbatum (for the obvious reason, but also I could have gotten it completely wrong).
 
-**Final Grade for Course**: 4.0 
+**Final Grade for Course**: 4.0 (A+)
 
 ## Week 1
 

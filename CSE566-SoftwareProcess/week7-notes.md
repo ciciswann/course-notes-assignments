@@ -119,10 +119,55 @@
     * various levels of testing
 
 ### Software Quality Assurance
+* SQA the practice of monitoring development processes and product development to ensure quality objectives are achieved (tracking)
+* numerous guidelines and standards exist
+* IEEE Standard 730: Software Quality Assurance Processes - 5.3 **SQA Process Implementation**: 
+   * 5.3.1 Establish the SQA Processes
+   * 5.3.2 Coordinate with related software processes
+   * 5.3.3 Document SQA Planning
+   * 5.3.4 Execute the SQA Planning
+   * 5.3.5 manage the SQA Records
+   * 5.3.6 Evaluate organizational independence and objectivity
+*  5.4 **Product assurance activities**
+   * Evaluate Plans for conformance to contracts, standards, and regulations
+   * evaluate product for conformance to estab. reqs.
+   * evaluate product for acceptability
+   * evaluate product life cycle support for conformance
+   * measure products  
+*  5.5 **Process assurance activities**
+   * Evaluate life cycle processes and plans for conformance
+   * Eval environments for conformance
+   * evaluate subcontractor processes
+   * measure processes
+   * assess staff skill and knowledge
+* Measurement - the process by which numbers or symbols are assigned to attributes of entities in the real world in such a way as to descrine them accoridng to clearly defined rules
+* Product Metrics - measure of the software product at any stage of dev (complexity of code, number of pages of documentation)
+* Process metrics - measure of the software dev process (software coding productivity)
+* nominal scale - give names to object - e.g. one can measure the type of program being produced by placing it into a category of some kind such as database program, OS, etc.
+* ordinal scale - assign numbers or symbols to object in a particular order but any numbers that maintain that order are equally good (e.g. programmer experience level may be measured as low, medium, high)
+* interval scale - assign numbers to objects in such a way that the interval btwn two measured values is meaningful thru the range of values (e.g. mccabe complexity measure)
+* Ratio scale - assign values in such a way that the ratio of two measures is meaningful - program of 2000 loc is twice as large as one with 1000loc
+* SQA requires careful planning and execution of the plan
 
 #### Evaluating Essential and Accidental Code Complexity Triggers by Practitioners' Perceptions
+* code complexity determines the difficulty of understanding code
+* code complexity is an emergent property of code that expands due to increasing code elements and interconnections
+* code elements: logical (variables, operators, control statements), representational (how code is represented - variable names), evolutional (how many times has code changed or how many ppl are changing code)
+* Types of complexity:
+  * essential complexity is inherent to the program task and is irreducible
+  * accidental complexity arises from non-optimal design and can be eliminated (for ex. variable names)
+* influence of complexity trigger (aspects of the code that contribute to increased complexity)
+* most triggers are accidental and can be removed
+* Figure 1 results - most triggers are accidental and can neutralized - essential triggers are at the top, high levels of influence onn complexity from survey are red/orange area, misleading comments are the highest
+* accidental - too-short names, incorrect indentations
+* the next three influential triggers are incorrect indentations, logically unrelated tasks, and too short names
+* deep nesting and deep inheritance are the next two triggers that have substantial influence on increased complexity
+* top 7 triggers are essential but have little influence on complexity -- they reflect current measures
+* developers should strive to avoid influential complexity triggers
+* essential elements have little influence on complexity
 
 #### Managing Technical Debt
+* 
 
 #### Using Guidelines to Improve Quality in Software Nonfunctional Attributes
 

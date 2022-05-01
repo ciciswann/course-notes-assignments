@@ -167,24 +167,125 @@
 * essential elements have little influence on complexity
 
 #### Managing Technical Debt
-* 
+* technical debt - maintenance obligations software teams accumulate as a result of their actions
+* software dev teams willing to accum. tech debt can speed up development of functionality by three times
+* orgs need to make tradeoffs: accumulating debt vs speed of delivery
+* 3 dimensions of techn debt: customer satisfaction needs (demands placed on the team), extent of software reliability demanded by the business, probability of tech disruption (acquiring new software/tech)
+* eight scenarios - observe low/low high/high
 
 #### Using Guidelines to Improve Quality in Software Nonfunctional Attributes
+* NFAs - different software systems have different NFA priorities - bank has security first, followed by availability and performance
+* There are many guidelines that can be utilized to achieve NFAs: architectural styles, design patterns, best practices
+* guidelines can have a negative, positive, or neutral effect on NFAs
+* guidelines can be:
+  * complementary - guidelines positively affect each other
+  * overlapping - both produce the same effect
+  * conflicting - one guideline negatively impacts the other
+  * independent - one guideline has no effect on another
+* SWE must select the best combination of guidelines to achieve desired NFA
 
 #### Implementing Functional Safety
+* functional safety is a property of the system rather than the component
+* safety standards: standards require top-down refinements of safety reqs based on hazard analysis
+* failure mode and effects analysis (FMEA) and fault tree analysis are techniques used for traceability analysis
+* avoid failures and make unavoidable failures safe
+* safety requires addressing three needs in parallel - 
+  * system-oriented development
+  * safety as an integral part of engineering methods: use coding standards and rules, integrate safety methods and techniques (defect prediction, detection, correction, prevention)
+  * strong process maturity: need for certification, documentation trails, reviews
 
 #### Safety, Security, Now Sustainability
+* environmental sustainability should be considered as a NF req in the software engineering process
+* three orders of magnitude:
+  * first-order impact - direct effects of a system on environment - energy usage
+  * second-order - indirect effects of software - more efficient energy mgmt such as thermostat
+  * third-order - rebound effects - increased efficiency encourages more use of systems that consume more energy
+* Life Cycle Assessment
+  * lots of analogies presented
+  * need to do LCA for sustainability in two scopes:
+    * software itself wo consideration for the process it supports
+    * applied to the system in which the software is embedded
 
 #### Back to the Basics: Measurement and Metrics
+* You cannot control what you cannot measure
+* too much measurement will inundate someone
+* metrics are measurements of different aspects of an endeavor that will help us determine whether we are progressing toward a desired goal
+* metrics need to be a part of a metrics program used as a decision support tool
+* planning should be based on GQM (Goal Question Metric) paradigm
+* Planning steps include:
+  * defining goals
+  * deriving questions
+  * developing metrics
+  * define collection process:
+    * what data is to be collected?
+    * what will be the source of data?
+    * how will it be measured?
+    * who will perform the measurements?
+    * how frequently should the data be collected?
+    * who will the derived metrics be delivered to?
+* implementing the metrics program - keep the number of measurements between 5 and 10; evaluating the metrics program (program should be periodically evaluated to see if it is meeting the needs of the metrics users, a metrics repository should be established)
+* collect data, validate data, derive metrics, make decisions
 
 #### A Large-Scale Empirical Study of Just In Time Quality Assurance
+* most software quality assurance work is based on predicting defect-prone modules and components
+* problems with approach:
+  * coarse grained (don't show risky areas)
+  * relevant experts needs for review and testing are not identified
+  * predictions might be made too late (after all modifications have been incorporated)
+* Just in Time QA ius an approach to identify risy mods that should be analyzed further
+* factors to consider in defect-inducing changes: goals is to produce a way to predict defect prone changes
+* Which change measure is *excluded* from considering defect inducing changes? Feature points come under Size Measure in estimation of cost
+* diffusion, history, size, purpose, experience
+* Size has a higher chance of introducing more defects in one large change, whereas diffusion requires keeping track of all locations that must be changed.
+* Cased study on 11 object, results analyzed for:
+  * confusion matrix
+  * accuracy - number of correctly classified changes over the total number of changes
+  * recall - ratio of correctly predicted defect-inducing changes to the actual number of defect inducing changes
+  * precision - fraction of correctly predicted defect-inducing changes to all changes (there is a tradeoff btwn prediction and recall)
 
 #### Effectivity and Economical Aspects for Agile Quality Assurance in Large Enterprises
+* People Business Change
+* introduces the SPI manifesto (3)
+* focus on people
+* SPI is what you do to make the business successful
+* SPI is inherently linked to change
+* Scrum master leads QA aspects of project
+* QA activities are part of the product backlog - performance testing, test automation
+* Quality cycle
+* ![image](https://user-images.githubusercontent.com/17733481/166165820-d2c0e38b-36c3-463b-b612-79212ab9e8ba.png)
+
 
 #### The 3C Approach for Agile Quality Assurance
+* Continuous Integration: new code is automatically detected from CMS, compiled, integrated into app, and tested
+* Continuous Measurement: after integration and passing of tests, metrics are captured and violations of thresholds detected
+* Continuous Improvement: quality manager views results and identifies areas for improvement (GQM)
 
 #### Legal Liability for Bad Software
+* noteworthy software disasters - raptor flight control system
+* mentality in some orgs: "ship now, patch later"
+* lawsuits are common:
+  * breach of warranty - software defects lead to economic losses - When software vendors include their license agreements and express warranties about their products performance
+  * fraud - vendors willful misrepresentation of software
+  * tort product liability
+  * negligence
+  * malpractice
+* Negligence is when the developer fails to provide due care whereas malpractice is when the developer is licensed and fails to provide due care to the software
 
 #### Data Science: Technologies for Better Software
+* Lots of data available on software projects due to short iterations
+* data science aids software engineers via:
+  * data driven quality mgmt (Q-rapids tool)
+  * automatic post-processing of code analysis - code analysis reduces failures by 50% and cuts development costs by 20-30%
+    * key is not to overwhelm the developer with defects
+    * need to prioritize what to bring to dev's attention
+    * need to train defect classifiers 
+* For which part of the Q-Rapids framework architecture is an analyst decision maker needed? At the end, we need decision makers to have the visualization, recommendation, and prioritization of the key things that need to be known from the data.
+* Steps: Business, data, data preparation, modeling, evaluation, deployment
 
 #### A Retrospective View of the Laws of Software Engineering
+* software engineering is still based on custom designs and manual coding - same level of sophistication as manufacturing guns in 1784; no standard reusable parts
+* selected laws:
+  * Conway's law - if three orgs build, likely three subsystems - any piece of software reflects the org structure that produced it
+  * Gresham's law - bad mgmt drives out good software engineers
+  * Humphrey's law - users do not know what they want a software system to do until they see it working. Really supports agile and rapid prototyping
+* did not originate from software, but taken from physics, math

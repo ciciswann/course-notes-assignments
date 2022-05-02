@@ -5,6 +5,8 @@
 
 
 ### Introduction to the Projective Plane
+* Affine
+* Projective - same except with extra point (infinity) 
 
 ### Curves on the Projective Plane
 

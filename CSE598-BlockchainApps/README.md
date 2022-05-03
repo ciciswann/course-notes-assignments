@@ -9,7 +9,7 @@ mining, consensus protocols, networking, and decentralized governance.
 
 > Additional Reading I'm Doing: [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
 
-> Assignments included weekly discussion posts about a specific Interest Area and Resources/Readings for the Course. My specific interest area that I discussed was Internet of Things and possible implementations of Blockchain Technology
+Assignments for this course included weekly discussion posts about a specific interest area and resources/readings for the course. My specific interest area that I discussed was Internet of Things (IoT) and possible implementations of Blockchain Technology.
 
 ## Week 1 
 

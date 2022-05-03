@@ -20,6 +20,11 @@
    * Lack of strategy & shared values
    * Insufficient communication
    * Cultural differences
+     * high or low context culture 
+       * high context - communicates implicitly and rely heavily on context
+       * low context - rely on explicit verbal communication 
+     * polychronic - focus on doing tasks concurrently
+     * monochronic - focus on one thing at a time 
    * Dispersed work organization
    * Inadequate global mgmt
    * Isolated learning

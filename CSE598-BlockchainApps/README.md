@@ -8,6 +8,9 @@ applicability. Topics include the mathematical and cryptographic underpinnings o
 mining, consensus protocols, networking, and decentralized governance. 
 
 > Additional Reading I'm Doing: [Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction](https://press.princeton.edu/books/hardcover/9780691171692/bitcoin-and-cryptocurrency-technologies)
+
+> Assignments included weekly discussion posts about a specific Interest Area and Resources/Readings for the Course. My specific interest area that I discussed was Internet of Things and possible implementations of Blockchain Technology
+
 ## Week 1 
 
 #### [📓 Notes](week1-notes.md) - Intro to Blockchain

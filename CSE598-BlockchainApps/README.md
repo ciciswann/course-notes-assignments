@@ -28,7 +28,7 @@ mining, consensus protocols, networking, and decentralized governance.
 
 ## Week 5
 
-#### [📓 Notes](week5-notes.md)
+#### [📓 Notes](week5-notes.md) - Mining
 
 ## Week 6
 
@@ -36,4 +36,4 @@ mining, consensus protocols, networking, and decentralized governance.
 
 ## Week 7
 
-#### [📓 Notes](week7-notes.md)
+#### [📓 Notes](week7-notes.md) - Peer-to-Peer Network

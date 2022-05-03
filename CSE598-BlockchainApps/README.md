@@ -16,13 +16,13 @@ mining, consensus protocols, networking, and decentralized governance.
 
 #### [📓 Notes](week2-notes.md) - Intro to Hash Functions for Password Handling
 
-## Week 3 - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
+## Week 3 
 
 #### [📓 Notes](week3-notes.md) - Elliptic Curves Digital Signatures Algorithm, Private Key Handling, Other Mathematical Concepts
 
 ## Week 4 
 
-#### [📓 Notes](week4-notes.md)
+#### [📓 Notes](week4-notes.md) - Scripts
 
 **Project 1** - Hyperledger Fabric Smart Contract 
 

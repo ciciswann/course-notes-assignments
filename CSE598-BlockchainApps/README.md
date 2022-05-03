@@ -37,3 +37,10 @@ mining, consensus protocols, networking, and decentralized governance.
 ## Week 7
 
 #### [📓 Notes](week7-notes.md) - Peer-to-Peer Network
+
+## Week 8
+
+#### [📓 Notes](week8-notes.md) - Governance
+
+**Project 2**
+**Final Exam**

@@ -42,5 +42,5 @@ mining, consensus protocols, networking, and decentralized governance.
 
 #### [📓 Notes](week8-notes.md) - Governance
 
-**Project 2**
+**Project 2** \
 **Final Exam**

@@ -32,7 +32,7 @@ mining, consensus protocols, networking, and decentralized governance.
 
 ## Week 6
 
-#### [📓 Notes](week6-notes.md)
+#### [📓 Notes](week6-notes.md) - Byzantine Generals Problem, Proof of Stake, Consensus
 
 ## Week 7
 

@@ -45,5 +45,5 @@ Assignments for this course included weekly discussion posts about a specific in
 
 #### [📓 Notes](week8-notes.md) - Governance
 
-**Project 2** - Creating an ERC-20 Token Standard Smart Contract on Ethereum \
+**Project 2** - Creating an ERC-20 Token Standard Smart Contract on Ethereum - using Solidity and Remix \
 **Final Exam**

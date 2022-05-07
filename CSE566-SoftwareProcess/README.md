@@ -30,5 +30,5 @@ The success of a software project is dependent upon many factors and requires sk
 
 ## Week 7
 #### [📓 Notes](week7-notes.md)
-**Project #5** - Software Maintainability - Deriving a measure of software maintainability based on the Maintainability Index
-
+**Project #5** - Software Maintainability - Deriving a measure of software maintainability based on the Maintainability Index \
+**Final Exam**

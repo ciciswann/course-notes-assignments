@@ -14,7 +14,7 @@
 ### Graduate Courses
 #### [CSE 535 - Mobile Computing](CSE535-MobileComputing/README.md) [✔️ COMPLETED] 
 #### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md) [✔️ COMPLETED] 
-#### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [🟨 IN PROGRESS]
+#### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [✔️ COMPLETED]
 #### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md) [✔️ COMPLETED]
 
 ### Supplementary/Refresher Courses

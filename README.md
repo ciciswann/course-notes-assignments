@@ -16,6 +16,7 @@
 #### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md) [✔️ COMPLETED] 
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [✔️ COMPLETED]
 #### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md) [✔️ COMPLETED]
+#### [CSE 551 - Foundations of Algorithms ](CSE551-Algorithms/README.md) [🟨 IN PROGRESS]
 
 ### Supplementary/Refresher Courses
 Math. I dig it.
@@ -23,8 +24,6 @@ Math. I dig it.
 #### [Calculus II (UCSD Extension)](Calculus2/README.md) [✔️ COMPLETED] 
 #### [Algorithms - Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford)](AlgorithmsPart1/README.md)[🟨 IN PROGRESS]
 
-### Upcoming Fall Courses
-* **CSE 551 - Foundations of Algorithms** (Advanced topics in formal algorithm design and analysis including amortized analysis, network flows, NP-completeness, computational geometry. I'm so excited for this one 🤩)
+### Upcoming Courses
 * **CSE 572 - Data Mining**
-* **CSE 531 - Distributed and Multiprocessor Operating Systems**
 * **CSE 571 - Artificial Intelligence**

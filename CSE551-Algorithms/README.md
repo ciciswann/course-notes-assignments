@@ -21,4 +21,4 @@ for a problem, instead of just coding the first idea that comes to mind.
 
 ## Week 1 - Stable Matching
 #### [📓 Notes](week1-notes.md)
-#### [🧮 Assignment/Practice](computation1.md)
+#### [🧮 Assignment/Practice](assignment1.md)

@@ -22,5 +22,5 @@ for a problem, instead of just coding the first idea that comes to mind.
 ## Week 1 - Stable Matching
 #### [📓 Notes](week1-notes.md)
 #### [🧮 Assignment/Practice](assignment1.md)
-**Assignment #1** - 100% /
+**Assignment #1** - 100% \
 **Quiz #1** - 100%

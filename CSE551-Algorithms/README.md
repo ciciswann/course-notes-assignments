@@ -24,3 +24,9 @@ for a problem, instead of just coding the first idea that comes to mind.
 #### [🧮 Assignment/Practice](assignment1.md)
 **Assignment #1** - 100% \
 **Quiz #1** - 100%
+
+## Week 2 - Greedy Algorithms
+#### [📓 Notes](week2-notes.md)
+#### [🧮 Assignment/Practice](assignment2.md)
+**Assignment #2** - 100% \
+**Quiz #2** - 92.5% :(

@@ -30,3 +30,9 @@ for a problem, instead of just coding the first idea that comes to mind.
 #### [🧮 Assignment/Practice](assignment2.md)
 **Assignment #2** - 100% \
 **Quiz #2** - 92.5% :(
+
+## Week 3 - Amortized Analysis
+#### [📓 Notes](week3-notes.md)
+#### [🧮 Assignment/Practice](assignment3.md)
+**Assignment #2** - TBD \
+**Quiz #2** - TBD

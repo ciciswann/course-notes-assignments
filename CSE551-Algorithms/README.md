@@ -34,11 +34,11 @@ for a problem, instead of just coding the first idea that comes to mind.
 ## Week 3 - Amortized Analysis
 #### [📓 Notes](week3-notes.md)
 #### [🧮 Assignment/Practice](assignment3.md)
-**Assignment #2** - 83.33% D: \
-**Quiz #2** - 100%
+**Assignment #3** - 83.33% D: \
+**Quiz #3** - 100%
 
 ## Week 4 - Divide & Conquer
 #### [📓 Notes](week4-notes.md)
 #### [🧮 Assignment/Practice](assignment4.md)
-**Assignment #2** - 100% \
-**Quiz #2** - 100%
+**Assignment #4** - 100% \
+**Quiz #4** - 100%

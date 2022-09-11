@@ -27,3 +27,6 @@ Math. I dig it.
 ### Upcoming Courses
 * **CSE 572 - Data Mining**
 * **CSE 571 - Artificial Intelligence**
+* **CSE 511 - Data Processing at Scale**
+* **CSE 578 - Data Visualization**
+* **CSE 575 - Statistical Machine Learning**

@@ -16,7 +16,9 @@
 #### [CSE 565 - Software Verification, Validation, and Testing](CSE565-SoftwareTesting/README.md) [✔️ COMPLETED] 
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [✔️ COMPLETED]
 #### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md) [✔️ COMPLETED]
-#### [CSE 551 - Foundations of Algorithms ](CSE551-Algorithms/README.md) [🟨 IN PROGRESS]
+#### [CSE 551 - Foundations of Algorithms ](CSE551-Algorithms/README.md) [✔️ COMPLETED]
+#### [CSE 511 - Data Processing at Scale ](CSE511-Data/README.md) [🟨 IN PROGRESS]
+#### [CSE 571 - Artificial Intelligence ](CSE571-AI/README.md) [🟨 IN PROGRESS]
 
 ### Supplementary/Refresher Courses
 Math. I dig it.
@@ -26,7 +28,5 @@ Math. I dig it.
 
 ### Upcoming Courses
 * **CSE 572 - Data Mining**
-* **CSE 571 - Artificial Intelligence**
-* **CSE 511 - Data Processing at Scale**
 * **CSE 578 - Data Visualization**
 * **CSE 575 - Statistical Machine Learning**

@@ -17,8 +17,8 @@
 #### [CSE 598 - Engineering Blockchain Applications](CSE598-BlockchainApps/README.md) [✔️ COMPLETED]
 #### [CSE 566 - Software Project, Process, and Quality Management ](CSE566-SoftwareProcess/README.md) [✔️ COMPLETED]
 #### [CSE 551 - Foundations of Algorithms ](CSE551-Algorithms/README.md) [✔️ COMPLETED]
-#### [CSE 511 - Data Processing at Scale ](CSE511-Data/README.md) [🟨 IN PROGRESS]
-#### [CSE 571 - Artificial Intelligence ](CSE571-AI/README.md) [🟨 IN PROGRESS]
+#### [CSE 511 - Data Processing at Scale ](CSE511-Data/README.md) [✔️ COMPLETED]
+#### [CSE 571 - Artificial Intelligence ](CSE571-AI/README.md) [✔️ COMPLETED]
 
 ### Supplementary/Refresher Courses
 Math. I dig it.

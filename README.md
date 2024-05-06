@@ -19,14 +19,15 @@
 #### [CSE 551 - Foundations of Algorithms ](CSE551-Algorithms/README.md) [✔️ COMPLETED]
 #### [CSE 511 - Data Processing at Scale ](CSE511-Data/README.md) [✔️ COMPLETED]
 #### [CSE 571 - Artificial Intelligence ](CSE571-AI/README.md) [✔️ COMPLETED]
+#### **CSE 572 - Data Mining** [✔️ COMPLETED]
+#### **CSE 578 - Data Visualization** [✔️ COMPLETED]
+#### **CSE 575 - Statistical Machine Learning** [✔️ COMPLETED]
 
 ### Supplementary/Refresher Courses
 Math. I dig it.
 #### [Discrete Mathematics (UCSD Extension)](DiscreteMathematics/README.md) [✔️ COMPLETED] 
 #### [Calculus II (UCSD Extension)](Calculus2/README.md) [✔️ COMPLETED] 
-#### [Algorithms - Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford)](AlgorithmsPart1/README.md)[🟨 IN PROGRESS]
+#### [Algorithms - Divide and Conquer, Sorting and Searching, and Randomized Algorithms (Stanford)](AlgorithmsPart1/README.md)[✔️ COMPLETED]
 
 ### Upcoming Courses
-* **CSE 572 - Data Mining**
-* **CSE 578 - Data Visualization**
-* **CSE 575 - Statistical Machine Learning**
+None rn. Completed Master's in 2023.
